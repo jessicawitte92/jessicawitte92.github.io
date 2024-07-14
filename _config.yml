@@ -2,9 +2,12 @@ title: Dr Jessica Witte
 theme: jekyll-theme-minimal
 logo: /assets/img/headshot.jpeg
 
-#email: "jessica.witte@ed.ac.uk"
-#twitter_username: "@jess_witte"
-#github_username: "jessicawitte92"
-#linkedin_username: "jessicawitte/"
+social_links: true  # If true show social links
+rss: true # For add icon to link feed.xml
+github: "jessicawitte92"
+linkedin: "jessicawitte"
+twitter: @jess_witte
+
+
 
 
