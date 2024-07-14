@@ -2,6 +2,9 @@ title: Dr Jessica Witte
 theme: jekyll-theme-minimal
 logo: /assets/img/headshot.jpeg
 
+plugins:
+- jekyll-seo-tag 
+
 social_links: true  # If true show social links
 rss: true # For add icon to link feed.xml
 github: "jessicawitte92"
