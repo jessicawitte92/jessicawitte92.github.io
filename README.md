@@ -1,4 +1,4 @@
-# TITLE
+# digital humanist | writer & researcher 
 
 ## CV
 ## Projects
