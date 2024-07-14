@@ -1,3 +1,3 @@
 layout: page
-title: "aboutE"
-permalink: /about.md
+title: "about"
+permalink: /about
