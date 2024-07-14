@@ -1,4 +1,5 @@
-
+title: Dr Jessica Witte
+theme: jekyll-theme-minimal
 
 #email: "jessica.witte@ed.ac.uk"
 #twitter_username: "@jess_witte"
@@ -6,14 +7,3 @@
 #linkedin_username: "jessicawitte/"
 
 
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
-  - scope:
-      path: ""
-      type: post
-    values:
-      tags: Other
-
-title: "Dr Jessica Witte"
-description: digital humanist | langauge enthusaist | writer & researcher
