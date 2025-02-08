@@ -396,8 +396,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "projects-project-1",
-          title: 'project 1',
+    },{id: "projects-hazel",
+          title: 'HAZEL',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
