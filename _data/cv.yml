@@ -1,32 +1,40 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Jessica
+      value: Jessica Witte
+    #- name: Date of Birth
+     # value: 14th March 1879
+    - #name: Languages
+      #value: English, Spanish, French, Turkish
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Illinois at Urbana-Champaign
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Subject
+        - Thesis title
+        - title: Supervisory Committee
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Sub-decription 3.
+            - Sub-description 4.
+    - title: MA
+      institution: University of Illinois at Urbana-Champaign
+      year: 2016
       description:
-        - Description 1.
+        - Subject 
         - Description 2.
+    - title: BA
+      institution: Hanover College
+      year: 2014
+      description:
+        - Subject
+        - Subject
 
 - title: Experience
   type: time_table
