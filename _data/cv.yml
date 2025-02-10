@@ -58,7 +58,7 @@
       year: 2016-2021
 
 - title: Publications
-  type: list
+  type: time_table
   contents:
     - title: "Political uses of the ancient past on social media are predominantly negative and extreme"
       authors: "Altaweel, M., Bonacchi, C., and Witte, J."
@@ -78,7 +78,7 @@
       doi: "10.7910/DVN/B4D4H3"
 
 - title: Media Exposure
-  type: list
+  type: time_talbe
   contents:
     - title: "Interviewee, upcoming documentary segment on the 'Welsh Fasting Girls'"
       production: "Invitation au Voyage, ARTE Network"
@@ -89,7 +89,7 @@
       url: "https://efi.ed.ac.uk/literary-studies-in-the-digital-age"
 
 - title: Fellowships and Grants
-  type: list
+  type: time_table
   contents:
     - title: "Predoctoral Fellowship, Humanities Research Institute"
       year: 2021-2022
@@ -104,7 +104,7 @@
       amount: "$17,500"
 
 - title: Awards
-  type: list
+  type: time_table
   contents:
     - title: "Prize for best PhD Thesis in English Literature"
       institution: "University of Illinois at Urbana-Champaign"
@@ -118,7 +118,7 @@
       year: "2016-2019"
 
 - title: Conference Activity
-  type: list
+  type: time_table
   contents:
     - title: "Generative AI for Heritage Institutions"
       event: "European Association of Archaeologists Annual Meeting"
@@ -134,7 +134,7 @@
       date: "22 Oct 2023"
 
 - title: Teaching Experience
-  type: list
+  type: time_table
   contents:
     - title: "Scraping Websites with R"
       course_type: "CDCS Training Programme"
@@ -158,7 +158,7 @@
       institution: University of Edinburgh
 
 - title: Mentoring
-  type: list
+  type: time_table
   contents:
     - title: "Postgraduate Students"
       institution: "Heritage Minds Lab, University of Edinburgh"
@@ -174,7 +174,7 @@
       number: 3
 
 - title: Professional Development
-  type: list
+  type: time_table
   contents:
     - title: "Data Science and AI Educator’s Programme"
       institution: "The Alan Turing Institute"
@@ -184,7 +184,7 @@
       year: "2020-2022"
 
 - title: Academic Service
-  type: list
+  type: time_table
   contents:
     - title: "AI Taskforce"
       institution: "School of History, Classics and Archaeology, University of Edinburgh"
@@ -200,7 +200,7 @@
       year: "2023"
 
 - title: Languages
-  type: list
+  type: map
   contents:
     - title: "English"
       proficiency: "Native"
@@ -208,7 +208,7 @@
       proficiency: "Intermediate"
 
 - title: Technical Skills
-  type: list
+  type: map
   contents:
     - title: "Programming Languages"
       skills: "Python, R, JavaScript"
