@@ -1,266 +1,37 @@
-name: Dr. Jessica Witte
-contact:
-  address: "Centre for Data, Culture and Society · Edinburgh Futures Institute, University of Edinburgh, 1 Lauriston Pl, Edinburgh, EH3 9EF"
-  phone: "07514 233952"
-  email: "jessica.witte@ed.ac.uk"
-  github: "www.github.com/jessicawitte92"
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Jessica Witte
+    - #name: Date of Birth
+      #value: 14th March 1879
+    - #name: Languages
+      #value: English, German
 
-profile_summary: |
 
-education:
-  - degree: PhD, English Literature
-    institution: University of Illinois at Urbana-Champaign
-    location: Urbana, Illinois (USA)
-    year: 2022
-    supervisor: Prof. Robert Markley
-    thesis: "The Fasting Girl: A Literary, Digital and Medical History of Anorexia from the Novel to the Clinic (1740-1900)"
-  - degree: MA, English Literature
-    institution: University of Illinois at Urbana-Champaign
-    location: Urbana, Illinois (USA)
-    year: 2016
-  - degree: BA, English
-    institution: Hanover College
-    location: Hanover, Indiana (USA)
-    year: 2014
-    secondary_studies:
-      - Spanish
-      - Women & Gender Studies
-
-employment:
-  - job_title: Digital Research Analyst
-    institution: Centre for Data, Culture and Society
-    location: University of Edinburgh
-    year: 2024-present
-  - job_title: Postdoctoral Research Fellow
-    institution: School of History, Classics & Archaeology
-    location: University of Edinburgh
-    year: 2024
-  - job_title: Postdoctoral Research Fellow
-    institution: School of Literatures, Languages & Cultures
-    location: University of Edinburgh
-    year: 2022-2024
-  - job_title: Predoctoral Fellow
-    institution: Humanities Research Institute (USA)
-    year: 2021-2022
-  - job_title: Teaching Assistant
-    institution: Department of Computer Science
-    location: University of Illinois at Urbana-Champaign
-    year: 2018-2021
-  - job_title: Research Assistant
-    institution: School of Library and Information Sciences
-    location: University of Illinois at Urbana-Champaign
-    year: 2017-2018
-  - job_title: Instructor
-    institution: Department of English
-    location: University of Illinois at Urbana-Champaign
-    year: 2016-2021
-
-publications:
-  journal_articles:
-    - authors: "Altaweel, M., Bonacchi, C., and Witte, J."
-      title: "Political uses of the ancient past on social media are predominantly negative and extreme"
-      journal: "PLOS ONE"
-      year: 2024
-      doi: "10.1371/journal.pone.0308919"
-    - authors: "Witte, J."
-      title: "The 'Welsh Fasting Girls' and Anorexia Nervosa in the Victorian Medical Imagination"
-      journal: "Journal of Literature and Science"
-      volume: "13(2)"
-      year: 2020
-      doi: "10.12929/jls.13.2.02"
-    - authors: "Kimutis, P., Underwood, T., and Witte, J."
-      title: "NovelTM Datasets for English-Language Fiction, 1700-2009"
-      journal: "Journal of Cultural Analytics"
-      year: 2020
-      doi: "10.7910/DVN/B4D4H3"
-  conference_proceedings:
-    - authors: "Stillman, A. and Witte, J."
-      title: "Measuring the Rise and Fall of a Subreddit using Text Analytics: The Life Course of r/Antiwork"
-      conference: "2023 IEEE International Conference on Behavioural and Social Computing"
-      year: 2023
-      doi: "10.1109/besc59560.2023.10386347"
-    - authors: "Lavin, M.J., Chang, K., Hu, Y., Shang, W., Sharma, A., Singhal, S., Underwood, T., Witte, J., Wu, P., Sinykin, D., and Walsh, M."
-      title: "Cultural analytics and the book review: models, methods, and corpora"
-      conference: "2020 ADHO Annual Conference"
-      year: 2020
-  book_review:
-    title: "Rev. of Steampunk and Nineteenth-Century Digital Humanities: Literary Retrofuturisms, Media Archaeologies, Alternate Histories by Roger Whitson"
-    journal: "Configurations"
-    volume: "26(2)"
-    pages: "249-251"
-    year: 2018
-  in_preparation:
-    - title: "Behind the Black Box: the Limitations of GenAI for Open-Access Research"
-    - title: "Chatbots for Cultural Heritage: Assessing Fine-Tuned GPT-3.5 in Writing Tasks"
-    - title: "HAZEL, a Pilot Generative AI Assistant for Historic England"
-
-selected_digital_resources:
-  - title: "Legal and Ethical Issues in Web Scraping workshop materials"
-    doi: "10.5281/zenodo.14041959"
-  - title: "Basic example of fine-tuning a GPT model, developed for EDINA (Edinburgh)"
-    doi: "10.5281/zenodo.1401993"
-  - title: "Web Scraping in R training course materials"
-    doi: "10.5281/zenodo.14041963"
-  - title: "R for Social Media Research in Cultural and Museum Studies training course materials"
-    doi: "10.5281/zenodo.14041894"
-  - title: "NovelTM Datasets for English-Language Fiction, 1700-2009"
-    doi: "15281/zenodo.3766610"
-
-media_exposure:
-  - title: "Interviewee, upcoming documentary segment on the 'Welsh Fasting Girls'"
-    production: "Invitation au Voyage, ARTE Network"
-    year: 2024
-  - title: "'Literary Studies in the Digital Age' interview"
-    platform: "Edinburgh Futures Institute"
-    year: 2023
-    url: "https://efi.ed.ac.uk/literary-studies-in-the-digital-age"
-
-fellowships_and_grants:
-  - title: "Predoctoral Fellowship, Humanities Research Institute"
-    year: 2021-2022
-  - title: "Lauter-McDougall Fellowship, University of Illinois at Urbana-Champaign"
-    year: 2020-2021
-    amount: "$50,000"
-  - title: "College of Liberal Arts and Sciences Fellowship, University of Illinois at Urbana-Champaign"
-    year: 2018-2020
-    amount: "$20,000"
-  - title: "Roxanne J. Decyk Fellowship, University of Illinois at Urbana-Champaign"
-    year: 2014-2015
-    amount: "$17,500"
-
-awards:
-  - title: "Prize for best PhD Thesis in English Literature"
-    institution: "University of Illinois at Urbana-Champaign"
-    year: 2023
-    amount: "$2,500"
-  - title: "Undergraduate Teaching Award"
-    institution: "University of Illinois at Urbana-Champaign"
-    year: 2018
-  - title: "Directory of Teachers Ranked as Excellent by their Students with an Additional Commendation of 'Outstanding' (Top 10%)"
-    institution: "University of Illinois at Urbana-Champaign"
-    year: 2016-2019
-
-conference_activity:
-  selected_papers_presented:
-    - title: "Generative AI for Heritage Institutions"
-      event: "European Association of Archaeologists Annual Meeting"
-      location: "Sapienza University (Rome)"
-      date: "28-31 Aug 2024"
-    - title: "Measuring the Rise and Fall of a Subreddit using Text Analytics: The Life Course of r/Antiwork"
-      event: "The Tenth Annual Behavioural and Social Computing Conference"
-      location: "University of Cyprus"
-      date: "30 Oct-1 Nov 2023"
-    - title: "Developing Capacity for Post-API Research: New Frameworks for Social Media Data Acquisition"
-      event: "The Post-API Conference: Social media data acquisition after Twitter"
-      location: "Annenberg Public Policy Center (Philadelphia)"
-      date: "22 Oct 2023"
-  conference_organised:
-    - title: "'Changing the Subject: Subjectivity, Habitus, Behavior, and the End of the Subject'"
-      event: "British Modernities Group Annual International Conference"
-      location: "University of Illinois"
-      date: "4-5 May 2017"
-
-selected_invited_talks:
-  external:
-    - title: "Teaching Computational Methods to Humanities Researchers"
-      event: "Digital Humanities Research Software Engineer Summer School"
-      location: "University of Cambridge"
-      date: "28 Jul 2023"
-    - title: "The CDCS Rapid Prototyping Sandpit"
-      event: "Digital Humanities Research Software Engineer Summer School"
-      location: "University of Cambridge"
-      date: "26 Jul 2023"
-  internal:
-    - title: '"As an AI language model...": Reading & Writing with GPT-3.5'
-      event: "Centre for Data, Culture and Society Summer School"
-      location: "University of Edinburgh"
-      date: "10 Jun 2024"
-
-teaching_experience:
-  university_of_edinburgh:
-    - course: "Scraping Websites with R, CDCS Training Programme"
-      year: 2024
-    - course: "Legal & Ethical Issues in Web Scraping, CDCS Training Programme"
-      year: 2023-2024
-    - course: "Stream 2: Text & Data Analysis in the Wild (R), CDCS Summer School"
-      year: 2023
-    - course: "Working with OCR (Python), CDCS Training Programme"
-      year: 2023
-    - course: "Topic Modelling (Python, R), CDCS Training Programme"
-      year: 2023
-  university_of_illinois:
-    - course: "Writing and Research, Department of English"
-      year: 2015-2018
-    - course: "Introduction to British Literature, 1800-Present, Department of English"
-      year: "Fall 2017"
-    - course: "Victorian Literature and Culture, Department of English"
-      year: "Spring 2018"
-    - course: "Introduction to Film, Department of Media and Cinema Studies"
-      year: "Fall 2018"
-    - course: "Ethical and Professional Conduct in Computer Science, Department of Computer Science and Engineering"
-      year: "Spring 2022"
-    - course: "Software Engineering II, Department of Computer Science and Engineering"
-      year: "2019-2021"
-
-mentoring:
-  - postgraduate_students: 2
-    institution: "Heritage Minds Lab, University of Edinburgh"
-    year: 2024-present
-  - postgraduate_projects: 4
-    institution: "University of Edinburgh"
-    year: "2022-2024"
-  - undergraduate_projects: 3
-    institution: "Department of English, University of Illinois"
-    year: "2017-2019"
-  - peer_support_program: "Peer Support Program, Department of English, University of Illinois"
-    year: "2017-2018"
-
-professional_development:
-  - program: "Data Science and AI Educator’s Programme"
-    institution: "The Alan Turing Institute"
-    year: "May-July 2023"
-  - role: "English Language and Composition Exam Reader"
-    institution: "College Board (USA)"
-    year: "2020-2022"
-
-academic_service:
-  university_of_edinburgh:
-    - role: "AI Taskforce, School of History, Classics and Archaeology"
-      year: "2024-present"
-    - role: "CDCS Digital Research Prizes, Judge"
-      year: "2024"
-    - role: "CDCS Steering Committee, Board Member"
-      year: "2023"
-    - role: "Research Technology Support, CDCS Rapid Prototyping Sandpit"
-      year: "2023"
-    - role: "'Insight into the Future' Workshop Participant"
-      organization: "Alliance for Research on Cultural Heritage in Europe (ARCHE)"
-      year: "2023"
-  university_of_illinois:
-    - role: "Colloquia Committee, Department of English"
-      year: "2019-2020"
-    - role: "Library Committee, Department of English"
-      year: "2017-2019"
-    - role: "Advisory Committee, Rhetoric & Writing Studies Program"
-      year: "2017-2019"
-
-skills:
-  languages:
-    - "English (native speaker)"
-    - "Spanish (C3)"
-    - "French (B1)"
-    - "Turkish (A2)"
-  digital_and_data:
-    - "Python"
-    - "R"
-    - "HTML"
-    - "CSS"
-    - "GPT, BERT, LLaMA (Large language models)"
-    - "GitHub, Gitlab (Version control)"
-    - "Natural language processing"
-    - "Web scraping"
-    - "Text and data mining"
-    - "Data visualisation"
-    - "FAIR and open data"
-
-references: "References provided upon request."
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Illinois at Urbana-Champaign
+      year: 2022
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: MA
+      institution: University of Illinois at Urbana-Champaign
+      year: 2016
+      description:
+        - Description 1.
+        - Description 2.
+    - title: BA
+      institution: Hanover College
+      year: 2014
+      description:
+        - Description 1.
+        - Description 2.
+        
