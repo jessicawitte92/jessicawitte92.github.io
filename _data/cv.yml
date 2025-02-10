@@ -2,36 +2,221 @@
   type: map
   contents:
     - name: Full Name
-      value: Jessica Witte
-    - #name: Date of Birth
-      #value: 14th March 1879
-    - #name: Languages
-      #value: English, German
-
+      value: Dr. Jessica Witte
+    - name: Contact Address
+      value: Centre for Data, Culture and Society · Edinburgh Futures Institute, University of Edinburgh, 1 Lauriston Pl, Edinburgh, EH3 9EF
+    - name: Phone
+      value: 07514 233952
+    - name: Email
+      value: jessica.witte@ed.ac.uk
+    - name: GitHub
+      value: www.github.com/jessicawitte92
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD, English Literature
       institution: University of Illinois at Urbana-Champaign
       year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: MA
+        - Supervisor: Prof. Robert Markley
+        - Thesis: "The Fasting Girl: A Literary, Digital and Medical History of Anorexia from the Novel to the Clinic (1740-1900)"
+    - title: MA, English Literature
       institution: University of Illinois at Urbana-Champaign
       year: 2016
       description:
-        - Description 1.
-        - Description 2.
-    - title: BA
+        - Focus on Victorian Literature and Culture
+    - title: BA, English
       institution: Hanover College
       year: 2014
       description:
-        - Description 1.
-        - Description 2.
-        
+        - Secondary studies in Spanish and Women & Gender Studies
+
+- title: Employment
+  type: time_table
+  contents:
+    - title: Digital Research Analyst
+      institution: Centre for Data, Culture and Society, University of Edinburgh
+      year: 2024-present
+    - title: Postdoctoral Research Fellow
+      institution: School of History, Classics & Archaeology, University of Edinburgh
+      year: 2024
+    - title: Postdoctoral Research Fellow
+      institution: School of Literatures, Languages & Cultures, University of Edinburgh
+      year: 2022-2024
+    - title: Predoctoral Fellow
+      institution: Humanities Research Institute, University of Illinois
+      year: 2021-2022
+    - title: Teaching Assistant
+      institution: Department of Computer Science, University of Illinois
+      year: 2018-2021
+    - title: Research Assistant
+      institution: School of Library and Information Sciences, University of Illinois
+      year: 2017-2018
+    - title: Instructor
+      institution: Department of English, University of Illinois
+      year: 2016-2021
+
+- title: Publications
+  type: list
+  contents:
+    - title: "Political uses of the ancient past on social media are predominantly negative and extreme"
+      authors: "Altaweel, M., Bonacchi, C., and Witte, J."
+      journal: PLOS ONE
+      year: 2024
+      doi: "10.1371/journal.pone.0308919"
+    - title: "The 'Welsh Fasting Girls' and Anorexia Nervosa in the Victorian Medical Imagination"
+      authors: "Witte, J."
+      journal: Journal of Literature and Science
+      volume: "13(2)"
+      year: 2020
+      doi: "10.12929/jls.13.2.02"
+    - title: "NovelTM Datasets for English-Language Fiction, 1700-2009"
+      authors: "Kimutis, P., Underwood, T., and Witte, J."
+      journal: Journal of Cultural Analytics
+      year: 2020
+      doi: "10.7910/DVN/B4D4H3"
+
+- title: Media Exposure
+  type: list
+  contents:
+    - title: "Interviewee, upcoming documentary segment on the 'Welsh Fasting Girls'"
+      production: "Invitation au Voyage, ARTE Network"
+      year: 2024
+    - title: "'Literary Studies in the Digital Age' interview"
+      platform: "Edinburgh Futures Institute"
+      year: 2023
+      url: "https://efi.ed.ac.uk/literary-studies-in-the-digital-age"
+
+- title: Fellowships and Grants
+  type: list
+  contents:
+    - title: "Predoctoral Fellowship, Humanities Research Institute"
+      year: 2021-2022
+    - title: "Lauter-McDougall Fellowship, University of Illinois"
+      year: 2020-2021
+      amount: "$50,000"
+    - title: "College of Liberal Arts and Sciences Fellowship, University of Illinois"
+      year: 2018-2020
+      amount: "$20,000"
+    - title: "Roxanne J. Decyk Fellowship, University of Illinois"
+      year: 2014-2015
+      amount: "$17,500"
+
+- title: Awards
+  type: list
+  contents:
+    - title: "Prize for best PhD Thesis in English Literature"
+      institution: "University of Illinois at Urbana-Champaign"
+      year: 2023
+      amount: "$2,500"
+    - title: "Undergraduate Teaching Award"
+      institution: "University of Illinois at Urbana-Champaign"
+      year: 2018
+    - title: "Directory of Teachers Ranked as Excellent by their Students with an Additional Commendation of 'Outstanding' (Top 10%)"
+      institution: "University of Illinois at Urbana-Champaign"
+      year: "2016-2019"
+
+- title: Conference Activity
+  type: list
+  contents:
+    - title: "Generative AI for Heritage Institutions"
+      event: "European Association of Archaeologists Annual Meeting"
+      location: "Sapienza University (Rome)"
+      date: "28-31 Aug 2024"
+    - title: "Measuring the Rise and Fall of a Subreddit using Text Analytics: The Life Course of r/Antiwork"
+      event: "The Tenth Annual Behavioural and Social Computing Conference"
+      location: "University of Cyprus"
+      date: "30 Oct-1 Nov 2023"
+    - title: "Developing Capacity for Post-API Research: New Frameworks for Social Media Data Acquisition"
+      event: "The Post-API Conference: Social media data acquisition after Twitter"
+      location: "Annenberg Public Policy Center (Philadelphia)"
+      date: "22 Oct 2023"
+
+- title: Teaching Experience
+  type: list
+  contents:
+    - title: "Scraping Websites with R"
+      course_type: "CDCS Training Programme"
+      year: 2024
+      institution: University of Edinburgh
+    - title: "Legal & Ethical Issues in Web Scraping"
+      course_type: "CDCS Training Programme"
+      year: 2023-2024
+      institution: University of Edinburgh
+    - title: "Stream 2: Text & Data Analysis in the Wild (R)"
+      course_type: "CDCS Summer School"
+      year: 2023
+      institution: University of Edinburgh
+    - title: "Working with OCR (Python)"
+      course_type: "CDCS Training Programme"
+      year: 2023
+      institution: University of Edinburgh
+    - title: "Topic Modelling (Python, R)"
+      course_type: "CDCS Training Programme"
+      year: 2023
+      institution: University of Edinburgh
+
+- title: Mentoring
+  type: list
+  contents:
+    - title: "Postgraduate Students"
+      institution: "Heritage Minds Lab, University of Edinburgh"
+      year: "2024-present"
+      number: 2
+    - title: "Postgraduate Projects"
+      institution: "University of Edinburgh"
+      year: "2022-2024"
+      number: 4
+    - title: "Undergraduate Projects"
+      institution: "Department of English, University of Illinois"
+      year: "2017-2019"
+      number: 3
+
+- title: Professional Development
+  type: list
+  contents:
+    - title: "Data Science and AI Educator’s Programme"
+      institution: "The Alan Turing Institute"
+      year: "May-July 2023"
+    - title: "English Language and Composition Exam Reader"
+      institution: "College Board (USA)"
+      year: "2020-2022"
+
+- title: Academic Service
+  type: list
+  contents:
+    - title: "AI Taskforce"
+      institution: "School of History, Classics and Archaeology, University of Edinburgh"
+      year: "2024-present"
+    - title: "CDCS Digital Research Prizes, Judge"
+      institution: "University of Edinburgh"
+      year: "2024"
+    - title: "CDCS Steering Committee, Board Member"
+      institution: "University of Edinburgh"
+      year: "2023"
+    - title: "Research Technology Support, CDCS Rapid Prototyping Sandpit"
+      institution: "University of Edinburgh"
+      year: "2023"
+
+- title: Languages
+  type: list
+  contents:
+    - title: "English"
+      proficiency: "Native"
+    - title: "Spanish"
+      proficiency: "Intermediate"
+
+- title: Technical Skills
+  type: list
+  contents:
+    - title: "Programming Languages"
+      skills: "Python, R, JavaScript"
+    - title: "Software"
+      skills: "GitHub, Jupyter, RStudio, VS Code"
+    - title: "Data Tools"
+      skills: "SQL, Tableau, Excel"
+    - title: "Text Analysis"
+      skills: "Topic Modeling, Sentiment Analysis, Text Mining"
+
+
